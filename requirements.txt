@@ -1,0 +1,6 @@
+numpy
+scikit-image
+pyvista
+matplotlib
+nibabel
+astra-toolbox
