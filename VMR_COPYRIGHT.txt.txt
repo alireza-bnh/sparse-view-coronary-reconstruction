@@ -1,0 +1,5 @@
+Copyright (c) Stanford University, the Regents of the University of California, Open Source Medical Software Corporation, and other parties. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this data to use the data for research and development purposes subject to the following conditions: The above copyright notice and this README-COPYRIGHT file shall be included in all copies of any portion of this data.  
+
+The data used herein was provided by the Vascular Model Repository (www.vascularmodel.com). THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
